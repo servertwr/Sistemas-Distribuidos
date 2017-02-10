@@ -1,0 +1,8 @@
+# Ignorar todo
+*
+
+# Designorar todo con extenciones
+!*.*
+
+# Designorar los folders
+!*/
