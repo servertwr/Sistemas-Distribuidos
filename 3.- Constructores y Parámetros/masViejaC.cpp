@@ -1,7 +1,7 @@
 #include "Fecha.h"
 
 int main() {
-	int i, c, cont = 1000;
+	int i, c, cont = 100000;
 	Fecha a, b;
 
 	for(i = 0; i < cont; i++){
